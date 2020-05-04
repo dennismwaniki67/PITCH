@@ -24,3 +24,5 @@ This is an application that allows users to sign in or sign up and post one minu
 | Select Login          |    **Username** and **password**    | Redirect to page with app pitches based on categories and commenting section |
 | Select comment button |             **Comment**             |                                             Form that you input your comment |
 | Click on submit       |                                     |       Redirect to all comments tamplate with your comment and other comments |
+
+## Development Installation
