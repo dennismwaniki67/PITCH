@@ -26,3 +26,4 @@ This is an application that allows users to sign in or sign up and post one minu
 | Click on submit       |                                     |       Redirect to all comments tamplate with your comment and other comments |
 
 ## Development Installation
+To get the code..
