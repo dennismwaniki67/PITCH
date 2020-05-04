@@ -27,3 +27,8 @@ This is an application that allows users to sign in or sign up and post one minu
 
 ## Development Installation
 To get the code..
+
+1. Cloning the repository:
+
+```bash
+https://github.com/dennismwaniki67/pitch
