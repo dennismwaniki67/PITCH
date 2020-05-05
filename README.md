@@ -34,4 +34,8 @@ To get the code..
 https://github.com/dennismwaniki67/pitch
 
 2.Move to the folder and install requirements
+```bash
+cd pitch
+pip install -r requirements.txt
+
 
