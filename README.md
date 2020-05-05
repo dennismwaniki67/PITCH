@@ -38,4 +38,6 @@ https://github.com/dennismwaniki67/pitch
 cd pitch
 pip install -r requirements.txt
 
+3. Exporting Configurations
+
 
