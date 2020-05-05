@@ -33,3 +33,5 @@ To get the code..
 ```bash
 https://github.com/dennismwaniki67/pitch
 
+2.Move to the folder and install requirements
+
