@@ -49,3 +49,4 @@ python3.6 manage.py server
 ```
 5.Open the application on your browser `127.0.0.1:5000`.
 
+## Technology used
