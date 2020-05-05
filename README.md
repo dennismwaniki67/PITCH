@@ -43,5 +43,5 @@ pip install -r requirements.txt
 ```bash
 export SQLALCHEMY_DATABASE_URI=postgresql+psycopg2://{User Name}:{password}@localhost/{database name}
 ```
-
+4. Running the application
 
