@@ -55,4 +55,5 @@ python3.6 manage.py server
 - [Heroku](https://heroku.com)
 
 ## Contact Information
+dennismwaniki67@gmail.com
 
