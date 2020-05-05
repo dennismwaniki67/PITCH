@@ -60,4 +60,4 @@ dennismwaniki67@gmail.com
 ## Live Link To Project
 
 ## License
-
+Licensed under[MIT license](license)
