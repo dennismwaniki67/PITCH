@@ -58,6 +58,6 @@ python3.6 manage.py server
 dennismwaniki67@gmail.com
 
 ## Live Link To Project
-
+https://pitch-app-blog.herokuapp.com/
 ## License
 Licensed under[MIT license](license)
